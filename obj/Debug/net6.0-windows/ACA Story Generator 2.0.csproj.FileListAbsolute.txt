@@ -1,0 +1,18 @@
+C:\Users\emile\source\repos\ACA Story Generator 2.0\bin\Debug\net6.0-windows\ACA Story Generator 2.0.exe
+C:\Users\emile\source\repos\ACA Story Generator 2.0\bin\Debug\net6.0-windows\ACA Story Generator 2.0.deps.json
+C:\Users\emile\source\repos\ACA Story Generator 2.0\bin\Debug\net6.0-windows\ACA Story Generator 2.0.runtimeconfig.json
+C:\Users\emile\source\repos\ACA Story Generator 2.0\bin\Debug\net6.0-windows\ACA Story Generator 2.0.dll
+C:\Users\emile\source\repos\ACA Story Generator 2.0\bin\Debug\net6.0-windows\ACA Story Generator 2.0.pdb
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.csproj.AssemblyReference.cache
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA_Story_Generator_2._0.Form1.resources
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.csproj.GenerateResource.cache
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.AssemblyInfoInputs.cache
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.AssemblyInfo.cs
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.dll
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\refint\ACA Story Generator 2.0.dll
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.pdb
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA Story Generator 2.0.genruntimeconfig.cache
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ref\ACA Story Generator 2.0.dll
+C:\Users\emile\source\repos\ACA Story Generator 2.0\obj\Debug\net6.0-windows\ACA_Story_Generator_2._0.Properties.Resources.resources
